@@ -1,5 +1,7 @@
 # Fjelly-React-App 
 
+_A React playground!_
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
